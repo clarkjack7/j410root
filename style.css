@@ -10,7 +10,7 @@
 
 body {
 	color: black; /*(default font color for the entire page)*/
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Helvetica', monospace; 
 	font-weight: 300; /*(font thickness)*/
 	-webkit-font-smoothing: antialiased;/*(helps with readability)*/
 }
@@ -287,7 +287,7 @@ h1 {
 }
 
 h2 {
-	font-family: 'Raleway',sans-serif;
+	font-family: 'Montserrat', uppercase; 
     text-align: center;
     font-size: 55px;
     text-transform: uppercase;

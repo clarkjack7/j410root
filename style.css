@@ -500,7 +500,7 @@ html {
 }
 
 .BotRow {
-    background-image: linear-gradient(to right, #FFF675, #FFC502);
+    background-image: linear-gradient(to right, #FFC502, #FFF675);
     align-content: center;
     margin-left: auto;
     margin-right: auto;
